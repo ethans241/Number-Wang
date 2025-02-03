@@ -1,0 +1,50 @@
+
+/* Navigation Bar */
+
+#Nav-bar {
+    background-color: #A81859;
+}
+
+#Nav-bar a {
+    color: #0DD97D;
+}
+
+#Nav-bar a:hover {
+    color: #6BEDB2;
+}
+
+#Nav-bar button {
+    color: #0DD97D;
+}
+
+#Nav-bar .active {
+    color: #6BEDB2;
+}
+
+/* Footer */
+
+#footer {
+    background-color: #A81859;
+    color: #0DD97D;
+    display: flex;
+    padding-top: 15px;
+}
+
+footer div {
+    text-align: center;
+}
+
+footer .social-links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8px;
+}
+
+footer .social-links a {
+    color: #0DD97D;
+    font-size: 2rem;
+}
+
+footer .social-links a:hover {
+    color: #6BEDB2;
+}
