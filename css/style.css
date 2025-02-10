@@ -142,6 +142,20 @@ body {
 
 /* Learn page */
 
+.accordion-body {
+  background-color: #0dd97d;
+  color: #a81859;
+}
+
+.accordion-button {
+  background-color: #a81859;
+  color: #0dd97d;
+}
+
+.accordion-button:active {
+  background-color: #a81859;
+  color: #0dd97d;
+}
 
 
 /* Footer */
