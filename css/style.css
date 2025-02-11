@@ -142,21 +142,15 @@ body {
 
 /* Learn page */
 
-.accordion-body {
-  background-color: #0dd97d;
-  color: #a81859;
+.tip-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
-.accordion-button {
-  background-color: #a81859;
-  color: #0dd97d;
+.tip-align {
+  text-align: center;
 }
-
-.accordion-button:active {
-  background-color: #a81859;
-  color: #0dd97d;
-}
-
 
 /* Footer */
 
